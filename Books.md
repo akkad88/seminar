@@ -22,4 +22,3 @@ __Freie Bücher__:
 - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Vertically Integrated Architectures: Versioned Data Models, Implicit Services, and Persistence-Aware Programming
-- Understanding Software: Max Kanat-Alexander on simplicity, coding, and how to suck less as a programmer
