@@ -16,9 +16,7 @@
 |   Louis Steinkamp             | Kubernetes for Developers: Use Kubernetes to develop, test, and deploy your applications with the help of containers |
 |   Karsten Tymann              | The Clean Coder: A Code of Conduct for Professional Programmers |
 |   Oxana Zhurakovskaya         | A Philosophy of Software Design |
-|   Meysameh Shojaei            | Understanding Software |
+|   Meysameh Shojaei            | Understanding Software/Designing Data-Intensive Applications/Continuous Delivery |
 
 __Freie Bücher__: 
-- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Vertically Integrated Architectures: Versioned Data Models, Implicit Services, and Persistence-Aware Programming
