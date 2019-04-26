@@ -2,7 +2,6 @@
 
 ![Cover](./img/BusinessAnalysis.jpg)
 
-## Table of Contents
+## Table of Contents:
 
-1. [Termin 1 / Kapitel 1](./Kapitel1.md)
-2. TODO
+1. [Kapitel 1 / Termin 1](BusinessAnalysis/Kapitel1.md)
